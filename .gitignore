@@ -1,2 +1,12 @@
+.sb
+.SB3
+.csv
+.pkl
 .idea
 .idea/*
+.zip
+.json
+.DS_STORE
+__pycache__/*
+Data/*
+

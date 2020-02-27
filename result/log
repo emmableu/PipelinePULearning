@@ -1,0 +1,24 @@
+[
+    {
+        "nnPU/loss": 0.8160706162452698,
+        "uPU/loss": 0.8160706162452698,
+        "train/nnPU/error": 1.25,
+        "train/uPU/error": 1.25,
+        "test/nnPU/error": 0.4,
+        "test/uPU/error": 0.4,
+        "epoch": 1,
+        "iteration": 1,
+        "elapsed_time": 0.01089570800000006
+    },
+    {
+        "nnPU/loss": 0.7772092819213867,
+        "uPU/loss": 0.7772092819213867,
+        "train/nnPU/error": 1.125,
+        "train/uPU/error": 1.125,
+        "test/nnPU/error": 0.4,
+        "test/uPU/error": 0.4,
+        "epoch": 2,
+        "iteration": 2,
+        "elapsed_time": 0.6733015179999999
+    }
+]
